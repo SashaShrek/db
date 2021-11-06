@@ -1,4 +1,4 @@
-package db
+package github.com/SashaShrek/db
 
 import (
 	"database/sql"
