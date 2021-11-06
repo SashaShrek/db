@@ -1,4 +1,4 @@
-module db
+module github.com/SashaShrek/db
 
 go 1.17
 
